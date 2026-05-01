@@ -55,6 +55,8 @@ const OUTPUT_COST_PER_TOKEN = 4.00 / 1_000_000
 const allowedOrigins = [
   'http://localhost:5173',
   'https://krd2ad.github.io',
+  'https://dardenibprep.com',
+  'https://www.dardenibprep.com',
 ]
 
 function setCorsHeaders(req: any, res: any) {
