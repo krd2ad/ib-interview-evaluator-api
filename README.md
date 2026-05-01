@@ -70,3 +70,7 @@ npm run dev      # vercel dev — runs the function locally on http://localhost:
 ## Deployment
 
 Push to `main` — Vercel auto-deploys. To change the model or evaluation prompt, edit `api/evaluate.ts`.
+
+## Questions
+
+Reach out on [LinkedIn](https://www.linkedin.com/in/kiernan-dimeglio/).
